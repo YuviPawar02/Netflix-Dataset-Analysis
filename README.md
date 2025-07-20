@@ -1,7 +1,7 @@
 # Movie-Dataset-Analysis
 Here's a clear and professional project description you can use in your GitHub README or portfolio:
 
-##Netflix Movie Data Analysis
+## Movie Data Analysis
 
 This project involves in-depth analysis of a large Netflix movie dataset with over **10,000+ entries**. The objective was to perform **data preprocessing**, handle missing values, and extract meaningful insights using Python and Pandas.
 
